@@ -4,7 +4,7 @@
 - 🔭 I’m y working on WEB
 - 🌱 I’m currently learning C++
 <!-- About me -->
-<h2>👋 Hi! I'm Nikita</h2>
+
 <a href="https://github.com/Fy5tew">
 	<img
 	src="https://img.shields.io/badge/Python%20Developer-blue?style=flat-square&logo=python&logoColor=white"
