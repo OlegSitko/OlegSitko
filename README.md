@@ -25,9 +25,9 @@
 
 <!-- LightMode -->
 <div align="center">
-	<a href="https://github-readme-stats.vercel.app/api?custom_title=GitHub%20Stats&show_icons=true&hide_rank=false&count_private=true&disable_animations=true&username=fy5tew&cache_seconds=1800&locale=en&border_color=57a5fe&theme=github_light#gh-light-mode-only">
+	<a href="https://github-readme-stats.vercel.app/api?custom_title=GitHub%20Stats&show_icons=true&hide_rank=false&count_private=true&disable_animations=true&username=OlegSitko&cache_seconds=1800&locale=en&border_color=57a5fe&theme=github_light#gh-light-mode-only">
 		<img
-		src="https://github-readme-stats.vercel.app/api?custom_title=GitHub%20Stats&show_icons=true&hide_rank=false&count_private=true&disable_animations=true&username=fy5tew&cache_seconds=1800&locale=en&border_color=57a5fe&theme=github_light#gh-light-mode-only"
+		src="https://github-readme-stats.vercel.app/api?custom_title=GitHub%20Stats&show_icons=true&hide_rank=false&count_private=true&disable_animations=true&username=OlegSitko&cache_seconds=1800&locale=en&border_color=57a5fe&theme=github_light#gh-light-mode-only"
 		alt="See My GitHub Stats"
 		height=160
 	/></a>
