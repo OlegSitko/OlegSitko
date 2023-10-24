@@ -31,9 +31,9 @@
 		alt="See My GitHub Stats"
 		height=160
 	/></a>
-	<a href="https://github-readme-stats.vercel.app/api/top-langs/?custom_title=Most%20Used%20Languages&layout=compact&langs_count=10&username=fy5tew&cache_seconds=1800&locale=en&border_color=57a5fe&theme=github_light#gh-light-mode-only">
+	<a href="https://github-readme-stats.vercel.app/api/top-langs/?custom_title=Most%20Used%20Languages&layout=compact&langs_count=10&username=OlegSitko&cache_seconds=1800&locale=en&border_color=57a5fe&theme=github_light#gh-light-mode-only">
 		<img
-		src="https://github-readme-stats.vercel.app/api/top-langs/?custom_title=Most%20Used%20Languages&layout=compact&langs_count=10&username=fy5tew&cache_seconds=1800&locale=en&border_color=57a5fe&theme=github_light#gh-light-mode-only"
+		src="https://github-readme-stats.vercel.app/api/top-langs/?custom_title=Most%20Used%20Languages&layout=compact&langs_count=10&username=OlegSitko&cache_seconds=1800&locale=en&border_color=57a5fe&theme=github_light#gh-light-mode-only"
 		alt="See My Most Used Languages"
 		height=160
 	/></a>
