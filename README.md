@@ -47,8 +47,8 @@
 <details> 
   <summary>💻 GitHub Profile Stats</summary>
   <br/>
-    <a href="https://github.com/andreu64388"><img alt="Andrey's Github Stats" src="https://denvercoder1-github-readme-stats.vercel.app/api/?username=andreu64388&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866" height="192px"/></a>
-  <a href="https://github.com/andreu64388"><img alt="Andrey's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=andreu64388&langs_count=8&layout=compact&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide=Jupyter%20Notebook" height="192px"/></a>
+    <a href="https://github.com/OlegSitko"><img alt="Andrey's Github Stats" src="https://denvercoder1-github-readme-stats.vercel.app/api/?username=andreu64388&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866" height="192px"/></a>
+ 
   <br/>
 </details>
 
@@ -61,7 +61,7 @@
   <br/>
 </details>
 <!-- https://github.com/ashutosh00710/github-readme-activity-graph -->
-<a href="https://github.com/andreu64388"><img alt="Andrey's Activity Graph" src="https://denvercoder1-activity-graph.herokuapp.com/graph/?username=andreu64388&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=true" /></a>
+<a href="https://github.com/OlegSitko"><img alt="Andrey's Activity Graph" src="https://denvercoder1-activity-graph.herokuapp.com/graph/?username=andreu64388&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=true" /></a>
 - 🔭 I’m y working on WEB
 - 🌱 I’m currently learning C++
 <
