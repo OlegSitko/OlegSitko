@@ -29,14 +29,7 @@
   <br/>
 </details>
 
-<details> 
-  <summary>🔥 GitHub Streak Stats</summary>
-  <br/>
-    <a href="https://github.com/OlegSitko">
-    <img alt="DimaXDD's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=OlegSitko&theme=monokai-metallian&hide_border=true"/>
-  </a>
-  <br/>
-</details>
+
 
 <
 <!-- GitHub stats -->
