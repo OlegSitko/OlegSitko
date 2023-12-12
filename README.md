@@ -1,20 +1,10 @@
 ### Hi I'm Alex👋
 
 
-
-<!-- Typing SVG by DimaXDD - https://github.com/DenverCoder1/readme-typing-svg -->
-<p align="center">
-  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com/?lines=Student%20of%20BSTU;2%2B%20years%20of%20coding%20experience;Always%20learning%20new%20things&font=Fira%20Code&center=true&width=440&height=45&color=f75c7e&vCenter=true&size=22"></a>
-</p>
-
-
-
 ## 🛠️ My favorite tools
 
 
- 
- <a href="https://github.com/OlegSitko"><img alt="Andrey's Top Languages" src="https://camo.githubusercontent.com/c49d0d92c06533125240cb890a417ace943207e222eee53949fb1033dbb7e00e/68747470733a2f2f6769746875622d726561646d652d73746174732e76657263656c2e6170702f6170692f746f702d6c616e67732f3f757365726e616d653d616e647265753634333838266c616e67735f636f756e743d38266c61796f75743d636f6d70616374267468656d653d726561637426686964655f626f726465723d747275652662675f636f6c6f723d314632323245267469746c655f636f6c6f723d4638354437462669636f6e5f636f6c6f723d46384438363626686964653d4a7570797465722532304e6f7465626f6f6b" height="192px" data-canonical-src="https://github-readme-stats.vercel.app/api/top-langs/?username=OlegSitko&amp;langs_count=8&amp;layout=compact&amp;theme=react&amp;hide_border=true&amp;bg_color=1F222E&amp;title_color=F85D7F&amp;icon_color=F8D866&amp;hide=Jupyter%20Notebook" style="max-width: 100%;"></a>
-  
+
 </p>
 
 ### 💻 Software and tools
