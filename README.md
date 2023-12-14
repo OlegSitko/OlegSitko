@@ -22,5 +22,4 @@
 </div>
 <a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=OlegSitko" alt="GitHub Streak" /></a>
 <a href ="https://github.com/anuraghazra/githubreadme-stats"><img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=OlegSitko&layout=compact&theme=vision-friendly-dark"/> </a> 
-"https://github.com/anuraghazra/githubreadme-stats"
-"https://github-readme-stats.vercel.app/api/top-langs/?username=OlegSitko&layout=compact&theme=vision-friendly-dark"
+
