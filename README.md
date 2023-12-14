@@ -21,4 +21,4 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="40" height="40"/>
 </div>
 <a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=OlegSitko" alt="GitHub Streak" /></a>
-<a href = "https://github-readme-stats.vercel.app/api/top-langs/?username=your-github-username&layout=compact&theme=vision-friendly-dark"> <img src = "https://github.com/anuraghazra/github-readme-stats" /> </a> 
+<a href = "https://github-readme-stats.vercel.app/api/top-langs/?username=OlegSitko&layout=compact&theme=vision-friendly-dark"> <img src = "https://github.com/anuraghazra/github-readme-stats" /> </a> 
