@@ -1,6 +1,6 @@
    ![photo_2023-12-10_22-13-22](https://github.com/OlegSitko/OlegSitko/assets/120294625/af109171-dba1-4940-826b-51caf6e93da6)
 
-<div style = " text-align: center;">
+<div style="text-align: center;">
   <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" title="React" alt="React" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/redux/redux-original.svg" title="Redux" alt="Redux " width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg"  title="CSS3" alt="CSS" width="40" height="40"/>&nbsp;
