@@ -1,5 +1,6 @@
-<img ![photo_2023-12-10_22-13-22](https://github.com/OlegSitko/OlegSitko/assets/120294625/af109171-dba1-4940-826b-51caf6e93da6)>
-
+<div width = 100px>
+   ![photo_2023-12-10_22-13-22](https://github.com/OlegSitko/OlegSitko/assets/120294625/af109171-dba1-4940-826b-51caf6e93da6)
+</div>
 
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" title="React" alt="React" width="40" height="40"/>&nbsp;
