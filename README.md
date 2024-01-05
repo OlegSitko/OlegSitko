@@ -12,7 +12,6 @@
 </div>
 
 <div style="margin-left:200px;">
-  <a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=OlegSitko" alt="GitHub Streak" /></a>
   <br>
   <a href="https://github.com/anuraghazra/githubreadme-stats"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=OlegSitko&layout=compact&theme=vision-friendly-dark" /></a>
 </div>
